@@ -1,1 +1,1 @@
-Quickly made TicTacToe in Python
+A set of my Python projects
